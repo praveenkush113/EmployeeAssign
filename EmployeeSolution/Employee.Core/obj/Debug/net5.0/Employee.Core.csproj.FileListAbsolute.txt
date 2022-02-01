@@ -1,0 +1,15 @@
+D:\Employee\Employee\EmployeeSolution\Employee.Core\bin\Debug\net5.0\Employee.Core.deps.json
+D:\Employee\Employee\EmployeeSolution\Employee.Core\bin\Debug\net5.0\Employee.Core.runtimeconfig.json
+D:\Employee\Employee\EmployeeSolution\Employee.Core\bin\Debug\net5.0\Employee.Core.runtimeconfig.dev.json
+D:\Employee\Employee\EmployeeSolution\Employee.Core\bin\Debug\net5.0\Employee.Core.dll
+D:\Employee\Employee\EmployeeSolution\Employee.Core\bin\Debug\net5.0\ref\Employee.Core.dll
+D:\Employee\Employee\EmployeeSolution\Employee.Core\bin\Debug\net5.0\Employee.Core.pdb
+D:\Employee\Employee\EmployeeSolution\Employee.Core\obj\Debug\net5.0\Employee.Core.csproj.AssemblyReference.cache
+D:\Employee\Employee\EmployeeSolution\Employee.Core\obj\Debug\net5.0\Employee.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Employee\Employee\EmployeeSolution\Employee.Core\obj\Debug\net5.0\Employee.Core.AssemblyInfoInputs.cache
+D:\Employee\Employee\EmployeeSolution\Employee.Core\obj\Debug\net5.0\Employee.Core.AssemblyInfo.cs
+D:\Employee\Employee\EmployeeSolution\Employee.Core\obj\Debug\net5.0\Employee.Core.csproj.CoreCompileInputs.cache
+D:\Employee\Employee\EmployeeSolution\Employee.Core\obj\Debug\net5.0\Employee.Core.dll
+D:\Employee\Employee\EmployeeSolution\Employee.Core\obj\Debug\net5.0\ref\Employee.Core.dll
+D:\Employee\Employee\EmployeeSolution\Employee.Core\obj\Debug\net5.0\Employee.Core.pdb
+D:\Employee\Employee\EmployeeSolution\Employee.Core\obj\Debug\net5.0\Employee.Core.genruntimeconfig.cache
